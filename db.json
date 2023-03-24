@@ -8,7 +8,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
+  "getData": {
     "start_date_res": "19-03-2023",
     "end_date_res": "20-03-2023",
     "channels": [
